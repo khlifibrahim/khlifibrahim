@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=khlifibrahim&theme=modern-lilac2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khlifibrahim&theme=modern-lilac2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
 </div>
 
 ###
